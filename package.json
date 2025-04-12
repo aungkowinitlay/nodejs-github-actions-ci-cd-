@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-github-actions-ci-cd",
+    "version": "1.0.0",
+    "description": "Node.js CI/CD with GitHub Actions",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"All tests passed!\"",
+      "lint": "eslint app.js",
+      "build": "echo \"Build complete!\""
+    },
+    "devDependencies": {
+      "eslint": "^8.55.0"
+    }
+  }
+  
